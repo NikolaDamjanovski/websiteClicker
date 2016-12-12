@@ -1,0 +1,14 @@
+{
+  "name": "klikanje",
+  "version": "1.0.0",
+  "description": "klikanje ",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "nightmare": "2.8.1"
+  }
+}
