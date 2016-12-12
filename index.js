@@ -1,7 +1,8 @@
 var Nightmare = require('nightmare');
 var nightmare = Nightmare({show: true});
-
+//testing commit
 var refLinks = [
+
     'http://surveynoticias.com/p222837',
     'http://surveynoticias.com/p222839',
     'http://surveynoticias.com/p222841',
@@ -17,6 +18,7 @@ var refLinks = [
     'http://surveynoticias.com/p222876',
     'http://surveynoticias.com/p222882',
     'http://surveynoticias.com/p222885',
+    'http://surveynoticias.com/p222885'
 ];
 var loginAcc = [
     {user: 'damjaann89@yahoo.com', pass: 'Tigar123456'},
